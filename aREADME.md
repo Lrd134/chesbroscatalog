@@ -2,10 +2,10 @@
 # chesbroscatalog.README
 #
 # The server is hosted using WAMP server and NOIP.
-# Copies of apache configs will be included in the respository.
+# Copies of apache configs will be included in www\Needed_Files\
 # 
 # This will be updated as I finish working on the project. Errors in hand.
-#
+# 
 #
 #
 #
