@@ -1,14 +1,15 @@
-.welcome {
-  color: red;
-  font-size: 76;
-  font-weight: bold;
-}
-#donate_msg
+
+#donate-msg
 {
     font-weight: bold;
     font-size: 12;
 }
-#fine_txt
+#fine-txt
 {
     font-size: 8;
+}
+.welcome-msg {
+  color: red;
+  font-size: 76;
+  font-weight: bold;
 }
