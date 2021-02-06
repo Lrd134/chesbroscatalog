@@ -1,15 +1,39 @@
 
-#donate-msg
+div #donate-msg
 {
     font-weight: bold;
     font-size: 12;
 }
-#fine-txt
+div .fine 
 {
-    font-size: 8;
+    font-size: 8pt;
 }
-.welcome-msg {
+h1, div .welcome-msg {
   color: red;
   font-size: 76;
-  font-weight: bold;
+  font-weight: bolder;
+}
+div .fine + .yellowtxt
+{
+    color: yellow;
+}
+.parent > #child
+{
+    font-size: 10pt;
+}
+#child
+{
+    font-size: 8pt;
+}
+#first ~ span
+{
+    font-style: italic;
+}
+*
+{
+    font-family: Sans-serif;
+    font-size: 12pt;
+}
+img[alt="Cat"] {
+  border: 1px solid black;
 }
